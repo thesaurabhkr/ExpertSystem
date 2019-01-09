@@ -1,14 +1,14 @@
-##Expert System
+## Expert System
 
-###Expert System Domain
+### Expert System Domain
 Banking and Financial Sector
 
 
-###Rule Engine
+### Rule Engine
 Java Expert System Shell (JESS)
 
 
-###Objective
+### Objective
 The Expert System takes into consideration various factors in the insurance industry to predict the premium to be paid by the insured customer every year. These factors include:
 
 - 	Age of policyholder
